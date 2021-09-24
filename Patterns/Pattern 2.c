@@ -29,4 +29,4 @@ input = 5
 55555
 
 
-<img>https://raw.githubusercontent.com/aryashah2k/Printing-Pattern-Programs/main/CPatternPrograms/NumericPatterns/assets/Pattern%201.jpg
+<img src="https://raw.githubusercontent.com/aryashah2k/Printing-Pattern-Programs/main/CPatternPrograms/NumericPatterns/assets/Pattern%201.jpg" />
