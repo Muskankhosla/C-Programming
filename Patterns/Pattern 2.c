@@ -1,3 +1,17 @@
+
+OUTPUT :
+
+
+5
+input = 5
+
+1 1 1 1 1
+2 2 2 2 2
+3 3 3 3 3
+4 4 4 4 4
+5 5 5 5 5
+
+
 #include <stdio.h>
 
 int main()
@@ -17,16 +31,3 @@ int main()
     return 0;
 }
 
-
-OUTPUT :
-5
-input = 5
-
-11111
-22222
-33333
-44444
-55555
-
-
-<img src="https://raw.githubusercontent.com/aryashah2k/Printing-Pattern-Programs/main/CPatternPrograms/NumericPatterns/assets/Pattern%201.jpg" />
