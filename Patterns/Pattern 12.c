@@ -17,8 +17,9 @@ void main()
     for(i=1;i<=n;i++)
     {
         for(j=1;j<=n;j++)
-        {   k=n*(j-1)+i;
-            printf("%2d ",k);
+        {  
+          k=n*(j-1)+i;
+          printf("%2d ",k);
         }
         printf("\n");
         
