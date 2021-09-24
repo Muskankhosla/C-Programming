@@ -18,7 +18,7 @@ int main()
 }
 
 
-OUTPUT:
+OUTPUT :
       5
       *****
       *****
