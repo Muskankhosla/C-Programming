@@ -5,10 +5,8 @@ C programming questions, important points and much more.....
 ## What is C?
 C is a computer programming language used to design computer software and applications.
 ## Who invented C?
-C Programming Language was invented in the year 1972 by Dennis Ritchie (Dennis MacAlistair Ritchie). He was an American Computer Scientist worked at Bell Labs as a researcher along with Ken Thompson. He was born on 9th September 1941 and lived till 12th October 2011. He is said to be the Father of C.
+C Programming Language was invented in the year 1972 by Dennis Ritchie (Dennis MacAlistair Ritchie). He was an American Computer Scientist worked at Bell Labs as a researcher along with Ken Thompson. He was born on 9th September 1941 and lived till 12th October 2011. He is said to be the Father of C.<br>
 
-<div align="center">
-<img src="https://static01.nyt.com/images/2011/10/14/business/RITCHIE-obit/RITCHIE-obit-jumbo.jpg?quality=75&auto=webp&disable=upscale" height="300"/>
 
 </div>
 
@@ -26,9 +24,6 @@ C Programming Language was invented in the year 1972 by Dennis Ritchie (Dennis M
 
 ## Step 2 
 ><b>( Go Through The Chapters And Practice Well )</b>  <a name="top"></a>
-
-<br>
-
 <img src="https://github.com/abhayanigam/Learn_Python_Programming/blob/main/Assets/content.png" align="right" width="200" align="right" />
 
 ## Table Of Contents 
@@ -74,7 +69,7 @@ C Programming Language was invented in the year 1972 by Dennis Ritchie (Dennis M
 
 
 ## Step 4
-> <b>Keep Practicing and for reference visit my profile!</b>
+> <b>Keep Practicing and for reference , visit my C Programming Repo!</b>
  - To Practice Basice Programs --> [Click here](https://www.javatpoint.com/c-programs)
  - Patterns Programs --> [Click here](https://github.com/Muskankhosla/C-Programming/tree/main/Patterns)
  - Basic Utility Programs --> [Click here](https://github.com/Muskankhosla/C-Programming/tree/main/General%20Utility%20Programs)
