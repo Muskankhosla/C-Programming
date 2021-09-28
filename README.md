@@ -31,6 +31,8 @@ C Programming Language was invented in the year 1972 by Dennis Ritchie (Dennis M
 ## Step 2 
 ><b>( Go Through The Chapters And Practice Well )</b>  <a name="top"></a>
 
+<br>
+
 <img src="https://github.com/abhayanigam/Learn_Python_Programming/blob/main/Assets/content.png" align="right" width="200" align="right" />
 
 ## Table Of Contents 
@@ -79,5 +81,3 @@ C Programming Language was invented in the year 1972 by Dennis Ritchie (Dennis M
 > <b>Keep Practicing</b>
  - To Practice Basice Programs --> [Click here](https://www.javatpoint.com/c-programs)
  <br>
- ## Practice Questions on:
- -Patterns 
