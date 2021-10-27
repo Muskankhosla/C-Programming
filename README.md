@@ -1,9 +1,9 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7jbSmbMMNzJJ9kwXZRk2mPutfg0fnSiuROg&usqp=CAU" align="right" width="200" align="right" />
 
 <h1 align="center" >C - Programming</h1>
-C programming questions, important points and much more.....
+C programming questions, important points and much more.....<br>
 ## What is C? <br>
-C is a computer programming language used to design computer software and applications.
+C is a computer programming language used to design computer software and applications.<br>
 ## Who invented C? <br>
 C Programming Language was invented in the year 1972 by Dennis Ritchie (Dennis MacAlistair Ritchie). He was an American Computer Scientist worked at Bell Labs as a researcher along with Ken Thompson. He was born on 9th September 1941 and lived till 12th October 2011. He is said to be the Father of C.<br>
 
